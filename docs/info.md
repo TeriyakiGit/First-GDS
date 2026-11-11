@@ -8,12 +8,11 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+Convert from BCD to 7 segments
 
 ## How to test
 
-Explain how to use your project
+Use dip switches as input to select values ​​in BCD code.
 
 ## External hardware
 
